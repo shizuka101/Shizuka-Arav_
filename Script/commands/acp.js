@@ -4,7 +4,7 @@ module.exports.config = {
   name: "acp",
   version: "1.0.0",
   hasPermssion: 2,
-  credits: "SHAHADAT SAHU",
+  credits: "𝗖𝗢𝗖𝗔 𝗔𝗥𝗔𝗩",
   description: "Accept or delete friend requests",
   commandCategory: "system",
   usages: "acp",
