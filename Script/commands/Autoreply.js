@@ -8,7 +8,7 @@ module.exports.config = {
   name: "autoreplybot",
   version: "2.0.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "𝗖𝗢𝗖𝗔 𝗔𝗥𝗔𝗩",
   usePrefix: false,
   commandCategory: "Chat",
   cooldowns: 0
@@ -21,6 +21,8 @@ module.exports.handleEvent = async function ({ api, event }) {
   const msg = body.toLowerCase().trim();
 
   const responses = {
+    "coca arav": "👑 𝗕𝗢𝗦𝗦 𝗔𝗞𝗢𝗡 𝗚𝗔𝗠𝗘 𝗔𝗖𝗘  🚫 𝗗𝗜𝗦𝗧𝗨𝗥𝗕 𝗞𝗢𝗥𝗕𝗔 𝗡𝗔 𝗞𝗘𝗨",
+    "arav": "—͟͞͞★ 𝗖𝗢𝗖𝗔 𝗔𝗥𝗔𝗩 🎀 📚 𝗛𝗡𝗥’𝘀 2𝗻𝗱 𝗬𝗲𝗮𝗿🎮 𝗔𝗻𝗶𝗺𝗲 & 𝗚𝗮𝗺𝗲 𝗟𝗼𝘃𝗲𝗿 ☪️ 𝗥𝗲𝗹𝗶𝗴𝗶𝗼𝗻: 𝗜𝘀𝗹𝗮𝗺🖤 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻: 𝗖𝗼𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗲𝗱 —͟͞͞★ 𝗧𝗘𝗖 | 𝗥𝗨𝗟𝗘 𝗧𝗛𝗘 𝗗𝗔𝗥𝗞 🌑",
     "miss you": "অরেক বেডারে Miss না করে xan মেয়ে হলে বস সাহু রে হাঙ্গা করো😶👻😘",
     "miss u too": "হুম আমি ও তোমাকে Miss করি... কিন্তু সাহু বস বেশি করে 😏💖",
     "kiss de": "কিস দিস না তোর মুখে দূর গন্ধ কয়দিন ধরে দাঁত ব্রাশ করিস নাই🤬",
@@ -32,8 +34,8 @@ module.exports.handleEvent = async function ({ api, event }) {
     "good night": "Sweet Dream babu… তবে আগে সাহু বস কে GN বলে নিও 😏💤",
     "tor ball": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
     "shahadat": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
-    "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ SHAHADAT SAHU ☜\nFacebook: https://www.facebook.com/profile.php?id=100044713412032\nWhatsApp: +8801882333052",
-    "admin": "He is SHAHADAT SAHU তাকে সবাই Admin SAHU হিসেবে চিনে😘☺️",
+    "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ Coca Arav ☜\nFacebook: https://www.facebook.com/profile.php?id=61552846104112\nWhatsApp: +880188🌑🖤🚩",
+    "admin": "He is 𝗖𝗢𝗖𝗔 𝗔𝗥𝗔𝗩 তাকে সবাই Admin 𝗔𝗥𝗔𝗩 হিসেবে চিনে😘☺️",
     "babi": "এ তো হাছিনা হে মেরে দিলকি দারকান হে মেরি জান হে😍.",
     "chup": "তুই চুপ চুপ কর পাগল ছাগল",
     "Assalamualaikum": "Walaikumassalam❤️‍🩹",
@@ -45,7 +47,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "by": "কিরে তুই কই যাস কোন মেয়ের সাথে চিপায় যাবি..!🌚🌶️",
     "ami shahadat": "হ্যা বস কেমন আছেন..?☺️",
     "bot er baccha": "আমার বাচ্চা তো তোমার গার্লফ্রেন্ডের পেটে..!!🌚⛏️",
-    "tor nam ki": "MY NAME IS ─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭💖",
+    "tor nam ki": "MY NAME IS ─꯭─⃝‌‌Shizuka 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭💖",
     "pic de": "এন থেকে সর দুরে গিয়া মর😒",
     "cudi": "এত চোদা চুদি করস কেনো..!🥱🌝🌚",
     "bal": "রাগ করে না সোনা পাখি 🥰",
@@ -60,7 +62,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "tui ke": "আমি তোর বস সাহু এর ChatBot 😏",
     "umm": "এতো Umm কেনো জানু… কিছু বলবা? 😉",
     "hmm": "Hmmm কিসের হুমম জানু 🥵",
-    "love": "Love করলে সরাসরি সাহু বস কে বল জানু 😻🔥"
+    "love": "Love করলে সরাসরি 𝗖𝗢𝗖𝗔 𝗔𝗥𝗔𝗩 বস কে বল জানু 😻🔥"
   };
 
   if (!responses[msg]) return;
