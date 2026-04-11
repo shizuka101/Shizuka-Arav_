@@ -5,8 +5,8 @@ module.exports.config = {
   name: "owner",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
-  description: "Show Owner Info with styled box & random photo",
+  credits: "𝗖𝗢𝗖𝗔 𝗔𝗥𝗔𝗩",
+  description: "𝗔𝗥𝗔𝗩 Owner Info with styled box & random photo",
   commandCategory: "Information",
   usages: "owner",
   cooldowns: 2
@@ -19,24 +19,24 @@ module.exports.run = async function ({ api, event }) {
 ╔═════════════════════ ✿
 ║ ✨ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ✨
 ╠═════════════════════ ✿
-║ 👑 𝗡𝗮𝗺𝗲 : 𝗦𝗛𝗔𝗛𝗔𝗗𝗔𝗧 𝗦𝗔𝗛𝗨
-║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : 𝗦𝗔𝗛𝗨
-║ 🎂 𝗔𝗴𝗲 : 𝟭𝟴+
-║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : 𝗦𝗶𝗻𝗴𝗹𝗲
+║ 👑 𝗡𝗮𝗺𝗲 : 𝗖𝗢𝗖𝗔 𝗔𝗥𝗔𝗩
+║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : 𝗔𝗥𝗔𝗩
+║ 🎂 𝗔𝗴𝗲 : 20+
+║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : 𝗖𝗼𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗲𝗱
 ║ 🎓 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻 : 𝗦𝘁𝘂𝗱𝗲𝗻𝘁
-║ 📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : 𝗛𝗦𝗖
-║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : 𝗞𝗵𝗮𝗴𝗿𝗮𝗰𝗵𝗮𝗿𝗶
+║ 📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : 𝗛𝗡𝗥’𝘀 2𝗻𝗱 𝗬𝗲𝗮𝗿
+║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : 𝗗𝗵𝗮𝗸𝗮, 𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵 🇧🇩
 ╠═════════════════════ ✿
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ╠═════════════════════ ✿
 ║ 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-║ fb.com/100001039692046
+║ fb.com/cocaarav
 ║ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-║ m.me/100001039692046
+║ m.me/61552846104112
 ║ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
-║ wa.me/01882333052
+║ wa.me/0188🖤🚩
 ║ ✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 :
-║ t.me/yoursahu
+║ t.me/cocaarav_
 ╚═════════════════════ ✿
 `;
 
