@@ -5,7 +5,7 @@ module.exports.config = {
   name: "onlyadmin",
   version: "2.0",
   hasPermssion: 2,
-  credits: "SHADAHAT SAHU",
+  credits: "𝗖𝗢𝗖𝗔 𝗔𝗥𝗔𝗩",
   description: "Admin only mode toggle",
   commandCategory: "Admin",
   usages: "onlyadmin",
@@ -40,6 +40,6 @@ module.exports.run = async ({ api, event }) => {
       ? "» Admin Only Enabled\nOnly admins can use commands now."
       : "» Admin Only Disabled\nEveryone can use the bot now.",
     id,
-    event.messageID
+    event.messageID"61552846104112",
   );
 };
