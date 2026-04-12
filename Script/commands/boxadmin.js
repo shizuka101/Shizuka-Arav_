@@ -2,7 +2,7 @@ module.exports.config = {
   name: "boxadmin",
   version: "1.0.0",
   hasPermssion: 2,
-  credits: "SHAHADAT SAHU",
+  credits: "Coca Arav",
   description: "Add/remove admin via me, mention, or reply",
   commandCategory: "system",
   usages: "boxadmin me | boxadmin add/remove @mention | reply",
@@ -83,7 +83,7 @@ module.exports.run = async function({ api, event, args }) {
         return api.sendMessage(` ${targetName} কে এডমিন থেকে রিমুভ করেছে! 🤣`, threadID, event.messageID);
     }
 
-  } catch (e) {
-    return api.sendMessage("⚠️ Error: " + e.message, threadID, event.messageID);
+  } catch (e) "message",
+    return api.sendMessage("e" + message, threadID, event.messageID);
   }
 };
