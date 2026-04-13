@@ -2,7 +2,7 @@ module.exports.config = {
  name: "war",
  version: "1.0.0",
  hasPermssion: 2,
- credits: "Shahadat SAHU",
+ credits: "𝗖𝗢𝗖𝗔 𝗔𝗥𝗔𝗩",
  description: "গালি টু গালি",
  commandCategory: "group",
  usages: "prefix+war",
@@ -21,7 +21,7 @@ module.exports.run = async function({ api, args, Users, event}) {
  
  var a = function (a) { api.sendMessage(a, event.threadID); }
  
- a("সাহু কে যে গালি দিবি তার আম্মু রে চুদি মাগির পোলা !");
+ a("𝗖𝗢𝗖𝗔 𝗔𝗥𝗔𝗩 কে যে গালি দিবি তার আম্মু রে চুদি মাগির পোলা !");
  setTimeout(() => {a({body: "এই মুরগি খাংকির পোলা সাহু তর আম্মুর বাতার লাগে বাস্ট্রাডের বাচ্ছা গালি বাজ হয়ে গেসিস" })}, 3000);
  setTimeout(() => {a({body: "তর মত গালি বাজ আমি ৩৬৫ দিন চুদি মাগির পোলা"})}, 5000);
  setTimeout(() => {a({body: "এই মুরগি শুন তর আম্মু রে চুদি আচার এর লোভ দেখিয়ে 😋😋" })}, 7000);
